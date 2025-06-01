@@ -90,13 +90,13 @@ USER_REPLY_TEXT = "ʙᴀᴋᴋᴀ ! ʏᴏᴜ ᴀʀᴇ ɴᴏᴛ ᴍʏ ꜱᴇɴᴘ
 #==========================(BUY PREMIUM)====================#
 
 OWNER_TAG = os.environ.get("OWNER_TAG", "@Dark_AdminBot")
-UPI_ID = os.environ.get("UPI_ID", "")
+UPI_ID = os.environ.get("UPI_ID", "@Dark_AdminBot")
 QR_PIC = os.environ.get("QR_PIC", "https://telegra.ph/file/3e83c69804826b3cba066-16cffa90cd682570da.jpg")
 SCREENSHOT_URL = os.environ.get("SCREENSHOT_URL", f"t.me/Dark_AdminBot")
 #--------------------------------------------
 #Time and its price
 #7 Days
-PRICE1 = os.environ.get("PRICE1", "0 rs")
+PRICE1 = os.environ.get("PRICE1", "20 rs")
 #1 Month
 PRICE2 = os.environ.get("PRICE2", "60 rs")
 #3 Month
